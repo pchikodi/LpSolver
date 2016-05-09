@@ -18,11 +18,11 @@ Application input in below format
 
 Problem statement
 
-Maximize: 143x+60y 
-Subject to: 
-120x+210y <= 15000
-110x+30y <= 4000 
-x+y <= 75
+Maximize: 143x+60y <br/>
+Subject to: <br/>
+120x+210y <= 15000 <br/>
+110x+30y <= 4000 <br/>
+x+y <= 75 <br/>
 
 Enter number of unknown variabls <br/>
 2 <br/>
