@@ -4,8 +4,8 @@ Linear programming
 ### Prerequisities
 
 Make sure lpsolve55.dll and lpsolve55j.dll are placed in System32 folder
-based on system type i.e., 32bit or 64 bit
-[download](https://svn.win.tue.nl/trac/prom/export/49/Packages/LpSolve/)
+based on system type i.e., 32bit or 64 bit <br/>
+[download link](https://svn.win.tue.nl/trac/prom/export/49/Packages/LpSolve/)
 
 ## Executing program
 Use below command to execute jar file.
